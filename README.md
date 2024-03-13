@@ -22,7 +22,6 @@ The code developed for the Automated Question-Answer Generation for Evaluating R
     - create question-answer pairs, filter them, and perform the cross-validation procedure
 - topics_creation
     - run BERTopic with many sets of parameters to group sections into topics and then evaluate the quality of the found topics
-- presentation.pdf - final presentation
-- report.pdf - technical report
+- presentation.pdf - project presentation
 
 > **Note**: The intermediary files such as the ones that store embeddings of sections, input topics, or the retrieved flyers have not been included because they are too large.
