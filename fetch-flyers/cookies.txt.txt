@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+webshare.zenya.work	FALSE	/	TRUE	0	AuthenticatedWebShare_sz79x7yjo2n75k5o	Cu6DfU2UmWlqzsTSi8q+TnaZG/9tGazafb4sfhUiypxNgUDSqnhR4LRqHY5wGcTq
+webshare.zenya.work	FALSE	/	TRUE	0	UserLanguage	en-US
+webshare.zenya.work	FALSE	/	TRUE	0	AuthenticatedWebShare_7441st4pkqv99nx1	TpX8CD5U2Cgp6qq2COu/3bMWXIvXPtzMzYB+4kloflkEKVSrwsUIp16HYbO6nBTT
