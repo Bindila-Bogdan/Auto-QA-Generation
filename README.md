@@ -14,6 +14,8 @@ The code developed for the Automated Question-Answer Generation for Evaluating R
     - data directory contains the extracted sections that are stored in flyers_wo_outliers.json and the grouped sections into emulated pages that are stored in grouped_sections.json
 - embeddings
     - generate embeddings at section or document level and analyze them visually
+- fetch_flyers
+    - retrieve the leaflets used to create the dataset
 - folds_creation
     - analyze the topics, group them into folds, and retrieve the pages used during cross-validation
     - in the rag_pages and rag_pages_used_split are the pages used during cross-validation, being divided into train-test folds
